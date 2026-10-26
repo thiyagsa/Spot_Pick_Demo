@@ -31,3 +31,8 @@ MVP to Production
   Performance, concurrency and security testing
 Goal: Safely operate the business with reliable transactions, recovery procedures and operational visibility.
 
+Initial Planned Action: 
+1. Build the essential business flow first.
+2. FastAPI + PostgreSQL
+3. Modular Monolith architecture
+>> Working on backend api  - With Support Demo Branch
