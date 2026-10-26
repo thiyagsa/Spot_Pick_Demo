@@ -1,0 +1,69 @@
+
+# =========================
+# Python Backend
+# =========================
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python testing and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# =========================
+# Flutter / Dart Admin App
+# =========================
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Flutter generated plugin files
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Dart/Flutter IDE files
+*.iml
+.metadata
+
+# Generated code (if generated in your project)
+# Uncomment if you don't want generated files tracked:
+# *.g.dart
+# *.freezed.dart
+
+# =========================
+# IDEs and editors
+# =========================
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
